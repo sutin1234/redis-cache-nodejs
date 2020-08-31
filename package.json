@@ -1,0 +1,24 @@
+{
+  "name": "redis-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "npx nodemon ./app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
+    "redis": "^3.0.2",
+    "response-time": "^2.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "pm2": "^4.4.1",
+    "util": "^0.12.3",
+    "utils": "^0.3.1"
+  }
+}
