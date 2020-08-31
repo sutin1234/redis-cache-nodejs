@@ -1,2 +1,2 @@
 # redis-cache-nodejs
-build redis server cached depened nodejs
+build redis server cached depended nodejs
